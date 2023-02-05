@@ -1,2 +1,2 @@
-# configs
-Contains some configs I need.
+# Configs
+Contains some configs I need for Linux or other stuff.
